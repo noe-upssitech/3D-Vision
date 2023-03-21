@@ -1,0 +1,3 @@
+Type de mire : Mire asymetrique circulaire
+distortion tangentielle = lentille et camera pas totalement parallèle
+distortion radiale = lentille convexe
